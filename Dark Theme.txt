@@ -1,0 +1,14 @@
+/* tailwind.config.js */
+module.exports = {
+  theme: {
+    extend: {
+      colors: {
+        darkBlue: '#001f3f',
+        black: '#111111',
+      },
+      fontFamily: {
+        geometric: ['Geometric', 'sans-serif'],
+      },
+    },
+  },
+};
